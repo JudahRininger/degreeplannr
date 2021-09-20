@@ -27,3 +27,25 @@ body {
 .required-classes .card {
     border-left: 8px solid #0c63e4;
 }
+.introduction {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    text-align: center;
+    background-color: rgb(197, 197, 197); 
+}
+.myImage {
+    border-radius: 50%;
+}
+.middle {
+    text-align: center;
+}
+.pad-around {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.top-space {
+    margin-top: 5em;
+}
+.footer-content {
+    padding-top: 1em;
+}
